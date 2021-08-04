@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">calculator</string>
+    <string name="btn_celsius">Celsius</string>
+    <string name="et_value">Enter value</string>
+    <string name="btn_fahrenhite">Fahrenhite</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="tv_displayAnswer">ans </string>
+
+</resources>
